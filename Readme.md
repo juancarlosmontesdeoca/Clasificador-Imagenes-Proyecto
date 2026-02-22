@@ -1,0 +1,1 @@
+El objetivo de este proyecto es desarrollar un modelo de aprendizaje automático capaz de clasificar imágenes de perros y gatos con alta precisión. Se implementará un enfoque de red neuronal convolucional (CNN) para entrenar el modelo utilizando las imágenes etiquetadas.
